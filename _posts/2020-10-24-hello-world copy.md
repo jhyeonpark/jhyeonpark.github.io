@@ -1,10 +1,11 @@
 ---
-title: "무관심의 시대: 우리는 왜 냉정해지기를 강요받는가"
+title: " github.io 블로그 구축하기11"
 categories: 
-  - Research
-last_modified_at: 2020-10-01T13:00:00+09:00
+  - blogging
+last_modified_at: 2020-10-24T13:00:00+09:00
 toc: true
 ---
+
 
 # 무관심의 시대: 우리는 왜 냉정해지기를 강요받는가
 
