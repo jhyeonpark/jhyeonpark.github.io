@@ -1,5 +1,5 @@
 ---
-title: " github.io 블로그 구축하기11"
+title: "무관심의 시대: 우리는 왜 냉정해지기를 강요받는가? (2019)"
 categories: 
   - blogging
 last_modified_at: 2020-10-24T13:00:00+09:00
