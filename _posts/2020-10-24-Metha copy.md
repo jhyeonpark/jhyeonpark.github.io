@@ -9,8 +9,9 @@ toc: true
 # 책 소개, 구성 및 요약
 이 책의 저자, **비카스 메타(Vikas Mehta)**는 도시 및 환경 디자인 분야의 저명한 학자인 **비카스 메타(Vikas Mehta)**로, **좋은 도시는 사회적인 만남`social encounter`이 있는 곳이며, 사회적 활동`social behavior`를 장려하는 공공공간을 우리 도시와 근린에 만드는 것이 도시 설계의 중요한 목적**이라는 주제를 담고 있다.
 
-![k382636366_1](https://user-images.githubusercontent.com/72984476/108954576-5b1ed100-76b0-11eb-819a-70df8ada77d3.jpg){: width="50%" height="50%"}  
-![K382636366_b](https://user-images.githubusercontent.com/72984476/109086403-dcc53c00-774e-11eb-98ed-f559c54db0be.jpg){: width="50%" height="50%"}
+![k382636366_1](https://user-images.githubusercontent.com/72984476/108954576-5b1ed100-76b0-11eb-819a-70df8ada77d3.jpg){: width="75%" height="75%"}  
+
+![K382636366_b](https://user-images.githubusercontent.com/72984476/109086403-dcc53c00-774e-11eb-98ed-f559c54db0be.jpg){: width="75%" height="75%"}
 
 
 책은 도시를 디자인 할 때, 염두해야할 101가지를 나열한다. 
