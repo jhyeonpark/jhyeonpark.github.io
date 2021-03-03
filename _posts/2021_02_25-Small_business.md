@@ -2,7 +2,7 @@
 title: "소규모 독립 사업체가 가지는 의미: 거리를 사교적으로 만들까?"
 categories: 
   - blogging
-last_modified_at: 2021-02-25T13:00:00+09:00
+last_modified_at: 2021-03-02T13:00:00+09:00
 toc: true
 ---
 
