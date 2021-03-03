@@ -7,18 +7,17 @@ toc: true
 ---
 
 # 소규모 독립 사업체(Independently Owned Small Businesses)?
-## The Street 책
+## 『The Street: The Street: A Quintessential Social Public Space』
 도시설계 분야의 유명한 책인 "The Street: A Quintessential Social Public Space (Vikas, Metha)"에서는 거리를 단순히 이동을 위한 통로가 아니라, 사람들이 머물고 인사를 나누고, 대화를 나누는 **사회적인 공간**으로 만들어야 한다는 메세지를 담고 있다.
 
 책은 거리의 사회적인 활동을 지원하기 위한 4가지 중요한 요소를 다음과 같이 제시한다:
 ![four](https://user-images.githubusercontent.com/72984476/109777982-a2283b80-7c47-11eb-87bd-e0e1a310931f.PNG){: width="75%" height="75%"}  
-
 - Factor 1 - Land Use Qualities : 거리를 즐겁게 이용할 수 있는 건물 및 토지 이용 요소
 - Factor 2 - Physical Qualities : 머물고 사회적인 활동을 유도하는 다양한 물리적 요소
 - Factor 3 - Physical Qualities : 사업체가 제공하는 사람을 머물게끔 하는 요소
 - Factor 4 - Social Qualities : 사람들이 모일 수 있는 공간
 
-『 』
+
 **소규모 독립 사업체`(Independently Owned Small Businesses)`**
 
 
