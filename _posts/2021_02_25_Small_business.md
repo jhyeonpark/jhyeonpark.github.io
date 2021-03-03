@@ -2,26 +2,23 @@
 title: "소규모 독립 사업체가 가지는 의미: 거리를 사교적으로 만들까?"
 categories: 
   - blogging
-last_modified_at: 2021-02-03T13:00:00+09:00
+last_modified_at: 2021-02-25T13:00:00+09:00
 toc: true
 ---
 
 # 소규모 독립 사업체(Independently Owned Small Businesses)?
+## The Street 책
 도시설계 분야의 유명한 책인 "The Street: A Quintessential Social Public Space (Vikas, Metha)"에서는 거리를 단순히 이동을 위한 통로가 아니라, 사람들이 머물고 인사를 나누고, 대화를 나누는 **사회적인 공간**으로 만들어야 한다는 메세지를 담고 있다.
 
 책은 거리의 사회적인 활동을 지원하기 위한 4가지 중요한 요소를 다음과 같이 제시한다:
 ![four](https://user-images.githubusercontent.com/72984476/109777982-a2283b80-7c47-11eb-87bd-e0e1a310931f.PNG){: width="75%" height="75%"}  
 
-- Factor 1 - Land Use Qualities : 거리에서 즐기고 볼 수 있는 건물 및 토지 이용
-- Factor 2 - Physical Qualities : 머물도록 유도하는 다양한 물리적 요소
-- Factor 3 - Physical Qualities : 거리에 인접한 상점이 놓은 의자
+- Factor 1 - Land Use Qualities : 거리를 즐겁게 이용할 수 있는 건물 및 토지 이용 요소
+- Factor 2 - Physical Qualities : 머물고 사회적인 활동을 유도하는 다양한 물리적 요소
+- Factor 3 - Physical Qualities : 사업체가 제공하는 사람을 머물게끔 하는 요소
 - Factor 4 - Social Qualities : 사람들이 모일 수 있는 공간
 
-안전하다는 느낌 `Sense of Safety on the Street`
-- 환경적인 쾌적함 `Environmental Comfort on the Street`
-- 물리적인 쾌적함 `Physical Comfort on the Street`
-- 유용성과 편리성 `Usefulness and Convenience on the Street`
-
+『 』
 **소규모 독립 사업체`(Independently Owned Small Businesses)`**
 
 
